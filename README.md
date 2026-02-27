@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tiago Gomes 👋</h1>
-<h3 align="center">A passionate developer focused on programming and cybersecurity</h3>https://github.com/tiagofngomes/tiagofngomes/blob/main/README.md
+<h3 align="center">A passionate developer focused on programming and cybersecurity
 
 <br>
 
