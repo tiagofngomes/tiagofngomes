@@ -78,11 +78,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/tiagofngomes/tiagofngomes/output/github-snake-dark.svg?v=3">
+            srcset="https://raw.githubusercontent.com/tiagofngomes/tiagofngomes/output/github-contribution-grid-snake-dark.svg?v=1">
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/tiagofngomes/tiagofngomes/output/github-snake.svg?v=3">
+            srcset="https://raw.githubusercontent.com/tiagofngomes/tiagofngomes/output/github-contribution-grid-snake.svg?v=1">
     <img alt="github contribution snake"
-         src="https://raw.githubusercontent.com/tiagofngomes/tiagofngomes/output/github-snake.svg?v=3"
+         src="https://raw.githubusercontent.com/tiagofngomes/tiagofngomes/output/github-contribution-grid-snake.svg?v=1"
          width="900">
   </picture>
 </p>
