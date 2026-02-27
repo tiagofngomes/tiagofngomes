@@ -32,10 +32,11 @@
 
 <br><br>
 
-<table align="center" style="border: none;">
-<tr style="border: none;">
+<div align="center">
 
-<td align="center" width="50%" valign="top" style="border: none; padding: 40px;">
+<div style="display: flex; justify-content: center; gap: 120px; flex-wrap: wrap;">
+
+<div align="center">
 
 <h4>Frontend Web</h4>
 <br>
@@ -45,7 +46,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55"/>
 
-<br>
+<br><br><br>
 
 <h4>Backend & Programming</h4>
 <br>
@@ -55,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="55"/>
 
-<br>
+<br><br><br>
 
 <h4>Mobile Development</h4>
 <br>
@@ -64,9 +65,9 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="55"/>
 
-</td>
+</div>
 
-<td align="center" width="50%" valign="top" style="border: none; padding: 40px;">
+<div align="center">
 
 <h4>Databases</h4>
 <br>
@@ -75,7 +76,7 @@
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="55"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55"/>
 
-<br>
+<br><br><br>
 
 <h4>DevOps & Systems</h4>
 <br>
@@ -84,7 +85,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55"/>
 
-<br>
+<br><br><br>
 
 <h4>Data Science & AI</h4>
 <br>
@@ -93,7 +94,7 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="55"/>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="55"/>
 
-</td>
+</div>
 
-</tr>
-</table>
+</div>
+</div>
