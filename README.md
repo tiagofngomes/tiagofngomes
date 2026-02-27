@@ -30,7 +30,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 
-<table align="center">
+**<table align="center">
 <tr>
 <td align="center" width="50%">
 
@@ -90,4 +90,4 @@
 
 </td>
 </tr>
-</table>
+</table>**
