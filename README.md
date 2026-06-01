@@ -12,17 +12,17 @@
     </a>
   </p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/tiago-gomes-934826254/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.facebook.com/tiago.f.n.gomes">
-      <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-    </a>
-    <a href="https://www.instagram.com/tiago.f.n.gomes/">
-      <img src="https://img.shields.io/badge/Instagram-Profile-111827?style=for-the-badge&logo=instagram&logoColor=00BFFF" alt="Instagram"/>
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tiago-gomes-934826254/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/tiago.f.n.gomes">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/tiago.f.n.gomes/">
+    <img src="https://img.shields.io/badge/Instagram-Profile-1877F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 </div>
 
