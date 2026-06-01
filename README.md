@@ -7,8 +7,8 @@
   </p>
 
   <p align="center">
-    <a href="mailto:tiago.f.n.gomes@gmail.com">
-      <img src="https://img.shields.io/badge/Email-tiago.f.n.gomes%40gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="https://www.linkedin.com/in/tiago-gomes-934826254/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
     </a>
   </p>
 
