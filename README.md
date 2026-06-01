@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Hi,+I'm+Tiago+Gomes!;Cybersecurity+%26+Software+Development;MSc+Student+in+Cybersecurity;Information+Systems+Auditing;Volunteer+First+Responder+at+the+Portuguese+Red+Cross" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Hi,+I'm+Tiago+Gomes!;Cybersecurity+%26+Software+Development;MSc+Student+in+Cybersecurity;Information+Systems+Auditing;Volunteer+First+Responder+at+the+Red+Cross" alt="Typing SVG" />
 
   <p>
     Building secure, practical, and reliable software solutions.
