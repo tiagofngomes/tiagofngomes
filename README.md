@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi,+I'm+Tiago+Gomes!;Cybersecurity+%26+Software+Development;MSc+Student+in+Cybersecurity;Information+Systems+Auditing;Volunteer+First+Responder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Hi,+I'm+Tiago+Gomes!;Cybersecurity+%26+Software+Development;MSc+Student+in+Cybersecurity;Information+Systems+Auditing;Volunteer+First+Responder" alt="Typing SVG" />
 
   <p>
     Building secure, practical, and reliable software solutions.
   </p>
 
   <a href="mailto:tiago.f.n.gomes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tiago.f.n.gomes%40gmail.com-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-tiago.f.n.gomes%40gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/tiago-gomes-934826254/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.instagram.com/tiago.f.n.gomes/">
-    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Profile-111827?style=for-the-badge&logo=instagram&logoColor=00BFFF" alt="Instagram"/>
   </a>
 
 </div>
@@ -38,12 +38,12 @@ Outside of technology, I serve as a **volunteer first responder at the Portugues
 ## Cybersecurity Focus
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Information%20Systems%20Auditing-111827?style=for-the-badge&logo=securityscorecard&logoColor=58A6FF" alt="Information Systems Auditing"/>
-  <img src="https://img.shields.io/badge/Secure%20Software%20Development-111827?style=for-the-badge&logo=owasp&logoColor=white" alt="Secure Software Development"/>
-  <img src="https://img.shields.io/badge/Risk%20Management-111827?style=for-the-badge&logo=datadog&logoColor=7C3AED" alt="Risk Management"/>
-  <img src="https://img.shields.io/badge/Network%20Security-111827?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Network Security"/>
-  <img src="https://img.shields.io/badge/Digital%20Forensics-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Digital Forensics"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=39FF14" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Information%20Systems%20Auditing-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=00BFFF" alt="Information Systems Auditing"/>
+  <img src="https://img.shields.io/badge/Secure%20Software%20Development-0D1117?style=for-the-badge&logo=owasp&logoColor=white" alt="Secure Software Development"/>
+  <img src="https://img.shields.io/badge/Risk%20Management-0D1117?style=for-the-badge&logo=datadog&logoColor=00BFFF" alt="Risk Management"/>
+  <img src="https://img.shields.io/badge/Network%20Security-0D1117?style=for-the-badge&logo=wireshark&logoColor=00BFFF" alt="Network Security"/>
+  <img src="https://img.shields.io/badge/Digital%20Forensics-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Digital Forensics"/>
 </div>
 
 ---
@@ -111,11 +111,11 @@ Outside of technology, I serve as a **volunteer first responder at the Portugues
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiagofngomes&layout=compact&theme=algolia&hide_border=true&langs_count=8&title_color=58A6FF" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiagofngomes&layout=compact&theme=algolia&hide_border=true&langs_count=8&title_color=00BFFF" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagofngomes&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagofngomes&theme=github_dark" alt="Profile Summary" />
 </div>
 
 ---
@@ -133,5 +133,5 @@ Outside of technology, I serve as a **volunteer first responder at the Portugues
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiagofngomes&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tiagofngomes&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
