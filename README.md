@@ -7,7 +7,7 @@
   </p>
 
   <a href="mailto:tiago.f.n.gomes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-tiago.f.n.gomes%40gmail.com-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/tiago-gomes-934826254/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -51,6 +51,7 @@ Outside of technology, I serve as a **volunteer first responder at the Portugues
 ## Tech Stack
 
 ### Languages
+
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -61,6 +62,7 @@ Outside of technology, I serve as a **volunteer first responder at the Portugues
 </div>
 
 ### Frameworks & Web
+
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -70,6 +72,7 @@ Outside of technology, I serve as a **volunteer first responder at the Portugues
 </div>
 
 ### Mobile
+
 <div align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
@@ -78,6 +81,7 @@ Outside of technology, I serve as a **volunteer first responder at the Portugues
 </div>
 
 ### Systems, Databases & Tools
+
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -90,6 +94,7 @@ Outside of technology, I serve as a **volunteer first responder at the Portugues
 </div>
 
 ### Data, AI & Game Development
+
 <div align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -102,15 +107,15 @@ Outside of technology, I serve as a **volunteer first responder at the Portugues
 ## Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagofngomes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagofngomes&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiagofngomes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiagofngomes&layout=compact&theme=algolia&hide_border=true&langs_count=8&title_color=58A6FF" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagofngomes&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagofngomes&theme=github_dark" alt="Profile Summary" />
 </div>
 
 ---
