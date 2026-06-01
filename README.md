@@ -2,27 +2,22 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Hi,+I'm+Tiago+Gomes!;Cybersecurity+%26+Software+Development;MSc+Student+in+Cybersecurity;Information+Systems+Auditing;Volunteer+First+Responder" alt="Typing SVG" />
 
-  <p>
+ <p>
     Building secure, practical, and reliable software solutions.
   </p>
 
-  <p align="center">
-    <a href="mailto:tiago.f.n.gomes@gmail.com">
-      <img src="https://img.shields.io/badge/Email-tiago.f.n.gomes%40gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/tiago-gomes-934826254/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.facebook.com/tiago.f.n.gomes">
-      <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-    </a>
-    <a href="https://www.instagram.com/tiago.f.n.gomes/">
-      <img src="https://img.shields.io/badge/Instagram-Profile-111827?style=for-the-badge&logo=instagram&logoColor=00BFFF" alt="Instagram"/>
-    </a>
-  </p>
+  <a href="mailto:tiago.f.n.gomes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tiago.f.n.gomes%40gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tiago-gomes-934826254/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/tiago.f.n.gomes">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/tiago.f.n.gomes/">
+    <img src="https://img.shields.io/badge/Instagram-Profile-111827?style=for-the-badge&logo=instagram&logoColor=00BFFF" alt="Instagram"/>
+  </a>
 
 </div>
 
