@@ -107,11 +107,11 @@ Outside of technology, I serve as a **volunteer first responder at the Portugues
 ## Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagofngomes&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiagofngomes&layout=compact&theme=algolia&hide_border=true&langs_count=8&title_color=00BFFF" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiagofngomes&layout=compact&theme=algolia&hide_border=true&langs_count=8&title_color=00BFFF" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagofngomes&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
