@@ -6,7 +6,7 @@
     Building secure, practical, and reliable software solutions.
   </p>
 
-  <a href="mailto:tiago.filipa.2019@gmail.com">
+  <a href="mailto:tiago.f.n.gomes@gmail.com">
     <img src="https://img.shields.io/badge/Email-tiago.filipa.2019%40gmail.com-00C7B7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/tiago-gomes-934826254/">
