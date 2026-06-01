@@ -27,7 +27,7 @@
 
 I'm a developer with a strong interest in **programming, cybersecurity, and information systems auditing**.
 
-I'm currently pursuing a **Master's degree in Cybersecurity and Information Systems Auditing**, where I’m developing my knowledge in secure systems, risk management, auditing, and information security.
+I'm currently pursuing a **Master's degree in Cybersecurity and Information Systems Auditing** at **ISPGAYA**, where I’m developing my knowledge in secure systems, risk management, auditing, and information security.
 
 I also write **scientific articles**, combining academic research with practical and analytical insights.
 
@@ -115,7 +115,7 @@ Outside of technology, I serve as a **volunteer first responder at the Portugues
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagofngomes&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagofngomes&theme=radical" alt="Profile Summary" />
 </div>
 
 ---
